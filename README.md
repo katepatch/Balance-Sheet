@@ -4,7 +4,7 @@ This was a project I made to showcase CSS and HTML to create a balance sheet.
 
 ## Preview
 
-Deployed via Github 
+Deployed via Github [Pages](https://katepatch.github.io/Balance-Sheet/)
 
 ## Screenshot
 
